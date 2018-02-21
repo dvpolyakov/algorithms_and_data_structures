@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/daniil/algorithms_and_data_structures/football_team/main.cpp" "/home/daniil/algorithms_and_data_structures/football_team/cmake-build-debug/CMakeFiles/Structs.dir/main.cpp.o"
+  "/home/daniil/algorithms_and_data_structures/merge_sort/main.cpp" "/home/daniil/algorithms_and_data_structures/merge_sort/cmake-build-debug/CMakeFiles/Structs.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

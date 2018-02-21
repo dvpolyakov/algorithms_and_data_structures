@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniil/algorithms_and_data_structures/merge_sort/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+chrono
+-
+fstream
+-
+functional
+-
+

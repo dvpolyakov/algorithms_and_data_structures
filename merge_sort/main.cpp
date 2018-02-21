@@ -11,7 +11,7 @@ vector<int> ReadData(std::istream& input_stream = std::cin) {
     int size;
     input_stream >> size;
     vector<int> data(size);
-    for (auto &elem : data) {
+    for (auto& elem : data) {
         input_stream >> elem;
     }
     return data;
@@ -66,11 +66,9 @@ void Sort(InputIt left, InputIt right, Comparator compare = {}) {
     MergeSort(left, right, buffer.begin(), compare);
 }
 
-void PrintAnswer(const vector<Player>& final_team, std::ostream& output_stream = std::cout) {
-    auto total_summ_of_efficiencies = CountTotalSumOfEfficiencies(final_team);
-    output_stream << total_summ_of_efficiencies << std::endl;
-    for (const auto& elem : final_team) {
-        output_stream << elem.number << " ";
+void PrintAnswer(const vector<int>& sorted_data, std::ostream& output_stream = std::cout) {
+    for (const auto& elem : sorted_data) {
+        output_stream << elem << " ";
     }
     output_stream << std::endl;
 }
