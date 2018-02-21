@@ -1,0 +1,3 @@
+/home/daniil/algorithms_and_data_structures/football_team/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniil/algorithms_and_data_structures/football_team/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniil/algorithms_and_data_structures/football_team/cmake-build-debug/CMakeFiles/Structs.dir

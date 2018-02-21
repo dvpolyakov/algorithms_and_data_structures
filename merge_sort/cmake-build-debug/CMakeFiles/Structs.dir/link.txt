@@ -1,0 +1,1 @@
+/usr/bin/c++   -fsanitize=address,undefined -std=c++14 -O0 -Wall -Werror -Wsign-compare -g   CMakeFiles/Structs.dir/main.cpp.o  -o Structs 
