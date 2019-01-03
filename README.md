@@ -1,2 +1,3 @@
-# algorithms_and_data_structures
-Course of Algorithms and Data Structures
+# Algorithms and data structures course
+Examples of my the best code
+1. [Sorting]
